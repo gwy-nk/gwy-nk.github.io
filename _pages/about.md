@@ -1,3 +1,1 @@
-
-
-Hi, I am Wenya Guo! 
+Hi, I am  Wenya Guo! 
