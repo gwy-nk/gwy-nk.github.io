@@ -6,14 +6,15 @@ subtitle: Ph.D. / Researcher in Computer Science.
 
 profile:
   align: right
-  image: prof_pic.jpg # 放入你自己的头像图片，放在 assets/img/ 文件夹下
-  image_circular: false # 头像是否为圆形
+  image: prof_pic.jpg 
+  image_circular: false
   address: >
     <p>Your University / Institute</p>
     <p>City, Country</p>
 
-news: true  # 显示最新动态
-social: true  # 显示社交和学术链接
+news: true 
+social: true 
+selected_papers: true # <---- 关键：加上这一行，模板就会自动帮你排版精选论文
 ---
 
 Hi, I am Wenya Guo! 👋 
